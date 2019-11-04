@@ -14,4 +14,4 @@
 
 ### Disclaimer
 
-This project is a experiment to facilitate my Go learning process. With that in mind, this repo doesn't necessarily follow all the best practices (yet).
+This project is a experiment to facilitate my learning process with `Go`. With that in mind, this repo doesn't necessarily follow all the best practices (yet).
