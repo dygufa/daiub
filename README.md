@@ -8,9 +8,9 @@
 
 ### TO DO
 
-- [] Add google login
-- [] Implement frontend
-- [] Implement notifications on frontend
+- [ ] Add google login
+- [ ] Implement frontend
+- [ ] Implement notifications on frontend
 
 ### Disclaimer
 
